@@ -1,0 +1,27 @@
+[
+    {
+        "sim_number": "123",
+        "balance": 100.0,
+        "owner": "ambo"
+    },
+    {
+        "sim_number": "456",
+        "balance": 200.0,
+        "owner": "MIkko"
+    },
+    {
+        "sim_number": "098",
+        "balance": 1000.0,
+        "owner": "RJ"
+    },
+    {
+        "sim_number": "789",
+        "balance": 999.0,
+        "owner": "Kulotsky"
+    },
+    {
+        "sim_number": "567",
+        "balance": 12.0,
+        "owner": "qwerty"
+    }
+]
